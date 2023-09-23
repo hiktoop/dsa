@@ -1,2 +1,2 @@
 # dsa
-copy from [dsa](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
+copy from [DS](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
